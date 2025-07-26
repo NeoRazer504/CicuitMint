@@ -1,5 +1,5 @@
 # CircuitMint
-CircuitMint is a mini keyboard made for the sole purpose of making my life easier by shortening common shortcuts that I use even further to just one button press! It has 4 buttons and a OLED screen(mostly just to make it cooler).
+CircuitMint is a mini keyboard made solely to make my life easier by turning the shortcuts I use most into just a single button press! It has 4 buttons and a OLED screen(mostly just to make it cooler).
 
 ## CAD
 <img width="1737" height="1042" alt="image" src="https://github.com/user-attachments/assets/9ac8d8c7-560d-41a7-8bc3-6c5f0fd5088b" />
